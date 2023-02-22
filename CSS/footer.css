@@ -1,0 +1,55 @@
+.footer-master-tao-box {
+    max-width: 260px;
+}
+
+.footer-block {
+    max-width: 210px;
+    width: 100%;
+}
+
+.footer-box .container {
+    position: relative;
+    margin: 96px auto 49px;
+    max-width: 1140px;
+    justify-content: space-between;
+}
+
+.footer-box .footer-text {
+    padding: 28px 0 23px;
+}
+
+.footer-box .footer-line {
+    position: absolute;
+    height: 2px;
+    width: 1140px;
+    margin: 0;
+    top: -40px;
+    opacity: 1;
+    background: var(--section-linebackground-primary);
+}
+
+.footer-box .footer-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 162.5%;
+}
+
+.footer-icon img {
+    width: 33px;
+    height: 33px;
+}
+
+.footer-block-title {
+    margin-bottom: 14px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 146%;
+}
+
+.footer-block-subtitle {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 195%;
+    text-decoration-line: underline;
+    color: #85899C;
+}

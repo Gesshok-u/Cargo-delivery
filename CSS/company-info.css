@@ -1,0 +1,27 @@
+.company-info {
+    margin: 90px auto 50px;
+}
+
+.company-text-box .template-rectangle {
+    background: var(--section-linebackground-green);
+    left: 0;
+    transform: translate(0);
+}
+
+.company-text-box .template-title {
+    text-align: left;
+    padding-top: 54px;
+}
+
+.company-text-box .text-description {
+    padding-bottom: 86px;
+}
+
+.company-text-box {
+    max-width: 555px;
+    width: 100%;
+}
+
+.company-info-decoration {
+    margin-left: 35px;
+}

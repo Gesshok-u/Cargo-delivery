@@ -1,0 +1,7 @@
+.dilivery {
+    padding: var(--selection-padding);
+}
+
+.dilivery .template-rectangle {
+    background: #89C249;
+}

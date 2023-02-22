@@ -1,0 +1,65 @@
+.registration {
+    padding: 92px 0 100px;
+}
+
+.registration-content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.registration-title h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.5%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.registration-subtitle {
+    text-align: center;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 139.5%;
+    position: relative;
+}
+
+.registration-subtitle .template-rectangle {
+    background: var(--section-linebackground-green);
+}
+
+.registration-text-1,
+.registration-text-2 {
+    max-width: 555px;
+    width: 100%;
+    font-weight: 100;
+    font-size: 17px;
+    line-height: 141.5%;
+    color: var(--color-white);
+}
+
+.registration-text-2 {
+    margin-top: 100px;
+}
+
+
+.registration-img-1 img,
+.registration-img-2 img {
+    max-width: 555px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.registration-img-1 {
+    margin-left: 35px;
+}
+
+.registration-img-2 {
+    margin: 70px 35px 0 0;
+}
+
+.registration-text-2 button {
+    margin-top: 40px;
+    max-width: 268px;
+}
